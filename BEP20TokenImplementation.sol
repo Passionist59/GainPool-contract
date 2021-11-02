@@ -1,6 +1,4 @@
 
-// File: contracts\interfaces\IBEP20.sol
-
 pragma solidity 0.6.4;
 
 interface IBEP20 {
